@@ -1,0 +1,21 @@
+campground_id,campground_name,sentiment_score,sentiment_label,review_text,theme_tags,guest_contact,timestamp
+KOA-AZ-014,Phoenix Metro KOA,-0.92,Very Negative,Bathroom was filthy and trash wasn't picked up for two days. Staff seemed annoyed when we asked for help.,"cleanliness, staff",guest01@example.com,2026-01-08T09:12:00Z
+KOA-TX-203,Austin East KOA,-0.88,Very Negative,Power kept tripping at our site and nobody came after hours. Ruined our stay.,"maintenance, electrical",guest02@example.com,2026-01-15T18:40:00Z
+KOA-CO-087,Denver West KOA,-0.85,Very Negative,Loud highway noise all night and dog park was a mud pit.,"noise, grounds",guest03@example.com,2026-02-02T07:55:00Z
+KOA-FL-156,Orlando Sunshine KOA,-0.9,Very Negative,Reservation was wrong and we got a tiny back-in with no shade. Manager was dismissive.,"reservations, staff",guest04@example.com,2026-02-19T14:22:00Z
+KOA-GA-042,Atlanta South KOA,-0.55,Negative,Wi‑Fi was spotty and the pool was closed with no notice on the website.,"amenities, communication",guest05@example.com,2026-01-22T11:30:00Z
+KOA-NC-091,Asheville KOA,-0.48,Negative,Sites are tight and our neighbor's sewer connection smelled bad.,"spacing, utilities",guest06@example.com,2026-02-08T16:05:00Z
+KOA-TN-118,Nashville KOA,-0.52,Negative,Check-in took 45 minutes. Nice location but operations need work.,"operations, wait_time",guest07@example.com,2026-02-25T09:18:00Z
+KOA-SC-033,Charleston KOA,-0.6,Negative,Laundry machines were broken and the camp store prices felt excessive.,"amenities, value",guest08@example.com,2026-03-01T12:44:00Z
+KOA-OR-077,Portland KOA,0.05,Mixed,Decent stay—good dog walk area but the roads inside the park are rough.,"grounds, pets",guest09@example.com,2026-01-30T08:50:00Z
+KOA-WA-064,Seattle North KOA,-0.08,Mixed,Quiet at night which we loved. Bathhouse needs updating.,"noise, facilities",guest10@example.com,2026-02-11T19:12:00Z
+KOA-MT-055,Billings KOA,0.02,Mixed,"Friendly staff, but our site wasn't level and we had to use extra blocks.","staff, site_quality",guest11@example.com,2026-02-28T10:00:00Z
+KOA-MN-029,Minneapolis KOA,-0.05,Mixed,Okay for an overnight. Playground was small for kids.,"family, amenities",guest12@example.com,2026-03-05T15:33:00Z
+KOA-UT-102,Salt Lake KOA,0.72,Positive,"Clean restrooms, easy check-in, and great views. We'll be back.","cleanliness, staff, scenery",guest13@example.com,2026-01-12T13:20:00Z
+KOA-ID-044,Boise KOA,0.68,Positive,"Gravel pad was level, hookups worked great, and the staff gave us local hiking tips.","maintenance, staff",guest14@example.com,2026-02-04T17:48:00Z
+KOA-WY-021,Jackson Hole KOA,0.78,Positive,Amazing location near the parks. Store had firewood and s'mores supplies.,"location, amenities",guest15@example.com,2026-02-14T08:05:00Z
+KOA-ME-011,Bar Harbor KOA,0.65,Positive,Quiet wooded sites and helpful hosts. A bit pricey but worth it for the area.,"staff, value",guest16@example.com,2026-02-22T21:10:00Z
+KOA-CA-201,San Diego KOA,0.95,Very Positive,"Best KOA we've stayed at—immaculate facilities, heated pool, and genuinely kind team.","cleanliness, amenities, staff",guest17@example.com,2026-01-18T10:15:00Z
+KOA-UT-103,Zion KOA,0.93,Very Positive,"Shuttle info was perfect, sites were spacious, stars at night were unreal.","location, operations",guest18@example.com,2026-02-01T11:58:00Z
+KOA-TX-204,Fredericksburg KOA,0.91,Very Positive,Wine country tips from the front desk made our trip. Spotless bathhouse.,"staff, cleanliness",guest19@example.com,2026-03-08T09:00:00Z
+KOA-VT-008,Burlington KOA,0.89,Very Positive,"Family-friendly, great playground, and quick response when we needed a fuse.","family, maintenance, staff",guest20@example.com,2026-03-12T14:27:00Z

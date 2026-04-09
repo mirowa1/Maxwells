@@ -1,0 +1,13 @@
+Campground Sentiment Analysis Report
+
+Executive Summary
+- Sample batch for validation only.
+
+===BEGIN_SENTIMENT_SUMMARY_CSV===
+campground_id,campground_name,avg_sentiment_score,total_reviews,top_issue_theme,severity_level,recommended_action
+KOA-AZ-014,Phoenix Metro KOA,-0.92,1,cleanliness,Critical,Deep clean restrooms within 24h
+===END_SENTIMENT_SUMMARY_CSV===
+===BEGIN_ISSUE_LOG_CSV===
+issue_id,campground_id,issue_description,severity,root_cause_hypothesis,recommended_action,assigned_to,due_date,status
+ISSUE-001,KOA-AZ-014,"Bathroom filthy",Critical,"Staffing gap",Schedule deep clean,Campground_Manager,2026-04-11,Open
+===END_ISSUE_LOG_CSV===
